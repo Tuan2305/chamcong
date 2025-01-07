@@ -1,1 +1,2 @@
-# face_recognition_project
+first : run add_faces.py
+second: run from sklearn.py
